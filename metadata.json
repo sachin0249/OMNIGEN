@@ -1,0 +1,9 @@
+{
+  "name": "OMNIGEN™",
+  "description": "A multimodal employee wellbeing and productivity optimization agent powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
